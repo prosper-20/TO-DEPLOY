@@ -29,7 +29,7 @@ SECRET_KEY = "django-insecure-xco6)qu+vhn5^buro)upchu4i)*@tpy!#5v5vd6f^uowr+p-+&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://prosper-demo.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','prosper-demo.herokuapp.com']
 
 
 # Application definition
